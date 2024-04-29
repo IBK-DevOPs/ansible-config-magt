@@ -2,13 +2,13 @@
 - name: update web, nfs and db servers
   hosts: webservers, nfs, db
   become: yes
+  become user: root
   tasks:
     - name: ensure wireshark is at the latest version
       yum:
         name: wireshark
         state: latest
    
-
 
 - name: update LB server
   hosts: lb
