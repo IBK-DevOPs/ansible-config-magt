@@ -9,10 +9,12 @@
         state: latest
    
 
+
 - name: update LB server
   hosts: lb
   become: yes
   tasks:
+  remote user: ububtu
     - name: Update apt repo
       apt: 
         update_cache: yes
