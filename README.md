@@ -1,2 +1,2 @@
-# ansible-config-magt
-Test page on ansible-config-magt
+# ansible-config-mgt
+Test page on ansible-config-mgt
