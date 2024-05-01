@@ -24,7 +24,6 @@
 
 
 
----
 - name: create directory,file and set timezone on all servers 
 host: webservers, nfs, db  
 become: yes  
