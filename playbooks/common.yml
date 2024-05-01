@@ -25,7 +25,7 @@
 
 
 
-- name: create directory,file and set timezoneon all servers 
+- name: create directory,file and set timezone on all servers 
 Host: webservers, nfs, db  
 become: yes  
 tasks:
