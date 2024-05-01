@@ -9,5 +9,5 @@
 172.31.28.59 ansible_ssh_user=ec2-user 
 
 [lb]
-172.31.47.189 ansible_ssh_user=ubuntu
+172.31.13.251 ansible_ssh_user=ubuntu
 
