@@ -7,3 +7,4 @@ test on main repo from branch
 Jenkins save_artifact config
 jeenkins artifact
 Rtying to get artifact up
+save_artifact not building
