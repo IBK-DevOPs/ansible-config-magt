@@ -5,3 +5,4 @@ jenkins was restarted
 Configuration of ansible-config_artifact
 test on main repo from branch
 Jenkins save_artifact config
+jeenkins artifact
