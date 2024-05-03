@@ -4,4 +4,4 @@ Edit ansible-config-mgt configuration
 jenkins was restarted
 Configuration of ansible-config_artifact
 test on main repo from branch
-Jenkins config trouble shooting
+Jenkins save_artifact config
