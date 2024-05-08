@@ -17,9 +17,17 @@
 - import_playbook: ../static-assignments/common.yml
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> refs/remotes/origin/main
 - hosts: all
 - import_playbook: ../static-assignments/common.yml
 
 - hosts: uat-webservers
 - import_playbook: ../static-assignments/uat-webservers.yml
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> refs/remotes/origin/main
